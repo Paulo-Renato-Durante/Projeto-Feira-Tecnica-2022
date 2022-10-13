@@ -1,0 +1,79 @@
+<gui>:
+    BoxLayout:
+        orientation:'vertical'
+
+        MDTopAppBar:
+            title: "Feira Tecnica"
+
+        MDGridLayout:
+            cols:2
+            MDBoxLayout:
+                MDLabel:
+                    id:nome
+                    text: "nome"
+                    halign: "center"
+
+                MDLabel:
+                    id:localidade
+                    text: "localidade"
+                    halign: "center"
+
+        MDGridLayout:
+            cols:2
+            MDBoxLayout:
+                MDLabel:
+                    id:descricao
+                    text: "descrição"
+                    halign: "center"
+
+
+                MDLabel:
+                    id:valor
+                    text: "valor"
+                    halign: "center"
+        MDGridLayout:
+            cols:2
+            MDBoxLayout:
+                MDLabel:
+                    id:descricao2
+                    text: "descrição2"
+                    halign: "center"
+
+
+                MDLabel:
+                    id:valor2
+                    text: "valor2"
+                    halign: "center"
+
+        MDGridLayout:
+            cols:3
+            adaptive_height: True
+            MDTextField:
+                pos_hint: {"center_x": .5, "center_y": -.6}
+                id:placa
+                hint_text: "placa"
+                text:''
+                mode: "rectangle"
+                helper_text:'                  a busca demora em torno de 1min'
+            MDIconButton:
+                id:botaoPesquisa
+                icon: "magnify"
+                pos_hint: {"center_x": .5, "center_y": .5}
+                on_release: root.pesquisa()
+
+        MDRaisedButton:
+            text: "clear"
+            md_bg_color: app.theme_cls.accent_color
+            on_release: root.clear()
+
+        MDFloatLayout:
+
+            MDRoundFlatIconButton:
+                text: "Open manager"
+                icon: "folder"
+                pos_hint: {"center_x": .5, "center_y": .3}
+                on_release: app.file_manager_open()
+
+
+        MDBottomNavigation:
+            panel_color: app.theme_cls.accent_color

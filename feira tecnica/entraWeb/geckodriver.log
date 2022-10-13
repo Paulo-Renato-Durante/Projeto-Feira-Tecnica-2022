@@ -1,0 +1,504 @@
+1664402881144	geckodriver	INFO	Listening on 127.0.0.1:62599
+1664402884241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62600" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilerjJMqc"
+1664402884583	Marionette	INFO	Marionette enabled
+1664402884587	Marionette	INFO	Listening on port 62612
+Read port: 62612
+WebDriver BiDi listening on ws://127.0.0.1:62600
+1664402884739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilerjJMqc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62600/devtools/browser/6fc831b7-f7f8-4564-a83c-4b3110a0f89b
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664403617513	Marionette	INFO	Stopped listening on port 62612
+[Parent 11944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+6: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664403616166	Marionette	INFO	Stopped listening on port 62880
+n.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resourc1664403618102	Marionette	INFO	Stopped listening on port 63401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilePAQgFB"
+1664403345649	Marionette	INFO	Marionette enabled
+1664403345656	Marionette	INFO	Listening on port 63574
+Read port: 63574
+WebDriver BiDi listening on ws://127.0.0.1:63562
+1664403345891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilePAQgFB\\search.json.mozlz4", (void 0)))
+1664403349608	geckodriver	INFO	Listening on 127.0.0.1:63586
+1664403352682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63587" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile1htPXd"
+1664403354116	Marionette	INFO	Marionette enabled
+1664403354122	Marionette	INFO	Listening on port 63599
+Read port: 63599
+WebDriver BiDi listening on ws://127.0.0.1:63587
+1664403354285	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile1htPXd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63587/devtools/browser/15edbcb3-ff15-41c6-bdc4-224e82cf0036
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664403618819	Marionette	INFO	Stopped listening on port 63599
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63893" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilexXiYje"
+1664403600321	Marionette	INFO	Marionette enabled
+1664403600329	Marionette	INFO	Listening on port 63904
+Read port: 63904
+WebDriver BiDi listening on ws://127.0.0.1:63893
+1664403600553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilexXiYje\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63893/devtools/browser/62be7ad8-e591-49b0-bfd7-cc3da3e4e42b
+1664403619517	Marionette	INFO	Stopped listening on port 63904
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664403674664	geckodriver	INFO	Listening on 127.0.0.1:64049
+1664403677682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64050" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileaFXYhC"
+1664403677987	Marionette	INFO	Marionette enabled
+1664403677991	Marionette	INFO	Listening on port 64063
+Read port: 64063
+WebDriver BiDi listening on ws://127.0.0.1:64050
+1664403678148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileaFXYhC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64050/devtools/browser/fc8faf65-1f6c-4221-bbf9-407dfa3ac1b0
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664405066555	Marionette	INFO	Stopped listening on port 64063
+e	INFO	Stopped listening on port 64479
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile7wFAuc"
+1664403916498	Marionette	INFO	Marionette enabled
+1664403916503	Marionette	INFO	Listening on port 64628
+Read port: 64628
+WebDriver BiDi listening on ws://127.0.0.1:64612
+1664403916700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile7wFAuc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64612/devtools/browser/cd57a840-b580-41ed-9b2b-876441d152d8
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664404039668	Marionette	INFO	Stopped listening on port 64628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64782" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilesJpY7d"
+1664403953082	Marionette	INFO	Marionette enabled
+1664403953091	Marionette	INFO	Listening on port 64794
+Read port: 64794
+WebDriver BiDi listening on ws://127.0.0.1:64782
+1664403953359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilesJpY7d\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64782/devtools/browser/196368e0-86f7-4651-9b32-8c3a94bb158b
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664404040294	Marionette	INFO	Stopped listening on port 64794
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664404138329	geckodriver	INFO	Listening on 127.0.0.1:65057
+1664404141377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileRVmq4e"
+1664404141744	Marionette	INFO	Marionette enabled
+1664404141749	Marionette	INFO	Listening on port 65069
+Read port: 65069
+WebDriver BiDi listening on ws://127.0.0.1:65058
+1664404141941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileRVmq4e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65058/devtools/browser/95b03c72-c818-4dfd-aec6-242c331c3a5c
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664404179020	Marionette	INFO	Stopped listening on port 65069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664404617555	geckodriver	INFO	Listening on 127.0.0.1:59365
+1664404620628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile9ycki6"
+1664404620962	Marionette	INFO	Marionette enabled
+1664404620966	Marionette	INFO	Listening on port 59378
+Read port: 59378
+WebDriver BiDi listening on ws://127.0.0.1:59366
+1664404621252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile9ycki6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59366/devtools/browser/11d1791f-02f0-4206-acc3-d7104b38063d
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664405059356	Marionette	INFO	Stopped listening on port 59378
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5528, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ocal\\Temp\\rust_mozprofilehtT6GV"
+1664404686971	Marionette	INFO	Marionette enabled
+1664404686977	Marionette	INFO	Listening on port 59565
+Read port: 59565
+WebDriver BiDi listening on ws://127.0.0.1:59553
+1664404687198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilehtT6GV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59553/devtools/browser/1abf28e0-f976-483c-bc3e-e0dec6fd5cad
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+1664405060242	Marionette	INFO	Stopped listening on port 59565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileuS95wa"
+1664404785774	Marionette	INFO	Marionette enabled
+1664404785779	Marionette	INFO	Listening on port 59766
+Read port: 59766
+WebDriver BiDi listening on ws://127.0.0.1:59754
+1664404786161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileuS95wa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59754/devtools/browser/f496b608-2277-463a-911a-571492e702fe
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+1664405061061	Marionette	INFO	Stopped listening on port 59766
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileQAgUn4"
+1664404837147	Marionette	INFO	Marionette enabled
+1664404837151	Marionette	INFO	Listening on port 59945
+Read port: 59945
+WebDriver BiDi listening on ws://127.0.0.1:59934
+1664404837315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileQAgUn4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59934/devtools/browser/cc724105-a885-4ad7-ae09-13f23335b0fe
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+console.error: "Unable to find target with innerWindowId:4294967328"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967368/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967351"
+console.error: "Unable to find target with innerWindowId:4294967351"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967391/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967375"
+console.error: "Unable to find target with innerWindowId:4294967375"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967407/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967399"
+console.error: "Unable to find target with innerWindowId:4294967399"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967439/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967423"
+console.error: "Unable to find target with innerWindowId:4294967423"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967467/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967447"
+console.error: "Unable to find target with innerWindowId:4294967447"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967488/domwalker22, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:301:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:49:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 107))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967471"
+console.error: "Unable to find target with innerWindowId:4294967471"
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Error while calling actor 'domwalker's method 'getEmbedderElement'" "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode]"
+console.error: ({})
+console.warn: "Error while destroying front:" "inspector" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967495/domwalker29 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 384))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967495/domwalker29 (resource://devtools/server/actors/inspector/document-walker.js:79:0)", "resource://devtools/shared/protocol/Front.js", 384))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 384: Error: Protocol error (NS_ERROR_FAILURE): Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [inIDeepTreeWalker.currentNode] from: server0.conn0.windowGlobal4294967495/domwalker29 (resource://devtools/server/actors/inspector/document-walker.js:79:0)
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3441: TypeError: data.frameData.id is null
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:779:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:660:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967495"
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1041:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:581:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:690:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1041, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1041))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:99:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:188:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:733:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:360:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 99, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 99))
+console.error: "Unable to find target with innerWindowId:4294967495"
+1664490334613	geckodriver	INFO	Listening on 127.0.0.1:64231
+1664490337676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilel5uFva"
+1664490339503	Marionette	INFO	Marionette enabled
+1664490339507	Marionette	INFO	Listening on port 64241
+Read port: 64241
+WebDriver BiDi listening on ws://127.0.0.1:64232
+1664490339732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilel5uFva\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64232/devtools/browser/1968c900-6998-4c81-9bd2-25285a015440
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664491238024	Marionette	INFO	Stopped listening on port 64241
+vaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://checkout.despachantedok.com.br/c1664490610812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilejMsLOi"
+1664490611103	Marionette	INF1664490725767	Marionette	INFO	Stopped listening on port 64523
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+tificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilejMsLOi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64755/devtools/browser/b8d2c871-1ebe-4d22-9179-bc3ec61c4066
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+1664490725114	Marionette	INFO	Stopped listening on port 64795
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664491004654	geckodriver	INFO	Listening on 127.0.0.1:65050
+1664491007735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilebRGPAs"
+1664491008037	Marionette	INFO	Marionette enabled
+1664491008041	Marionette	INFO	Listening on port 65060
+Read port: 65060
+WebDriver BiDi listening on ws://127.0.0.1:65051
+1664491008199	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilebRGPAs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65051/devtools/browser/7e23e87a-07b7-4a9f-94ac-2a1b119d6605
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://checkout.despachantedok.com.br/checkout/despachante/orcamento line 1 > injectedScript, line 44: WebGL context was lost.
+1664491236272	Marionette	INFO	Stopped listening on port 65060
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileUCZMaW"
+1664491085133	Marionette	INFO	Marionette enabled
+1664491085137	Marionette	INFO	Listening on port 65303
+Read port: 65303
+WebDriver BiDi listening on ws://127.0.0.1:65291
+1664491085279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofileUCZMaW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65291/devtools/browser/daac47c0-53bb-4e04-a604-35a99b77caff
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+1664491235006	Marionette	INFO	Stopped listening on port 65303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilezuUoYM"
+1664491201497	Marionette	INFO	Marionette enabled
+1664491201502	Marionette	INFO	Listening on port 65506
+Read port: 65506
+WebDriver BiDi listening on ws://127.0.0.1:65497
+1664491201645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilezuUoYM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65497/devtools/browser/49f6ea41-aed4-44cd-8117-01f3cb233d84
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+1664491265950	Marionette	INFO	Stopped listening on port 65506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 3712, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664491284502	geckodriver	INFO	Listening on 127.0.0.1:49332
+1664491287582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49333" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilezbzqSg"
+1664491287886	Marionette	INFO	Marionette enabled
+1664491287891	Marionette	INFO	Listening on port 49343
+Read port: 49343
+WebDriver BiDi listening on ws://127.0.0.1:49333
+1664491288035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofilezbzqSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49333/devtools/browser/5ff42477-0940-43f2-ac89-eae928652ca3
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+1664491327945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1664491348173	Marionette	INFO	Stopped listening on port 49343
+1664491954849	geckodriver	INFO	Listening on 127.0.0.1:50041
+1664491957898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "50042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile8m1DUn"
+*** You are running in headless mode.
+1664491958208	Marionette	INFO	Marionette enabled
+1664491958212	Marionette	INFO	Listening on port 50051
+Read port: 50051
+WebDriver BiDi listening on ws://127.0.0.1:50042
+1664491958289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANAPAU~1\\AppData\\Local\\Temp\\rust_mozprofile8m1DUn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50042/devtools/browser/3f1c1bba-a317-49b7-999e-58840130d997
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://tm.jsuol.com.br/uoltm.js?id=p5ctmq, line 1: unreachable code after return statement
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 49: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.despachantedok.com.br/?gclid=CjwKCAjwvsqZBhAlEiwAqAHElfFSvg__61DWUwu_08lRn4Jt4kEZxELS3PgNHHWKnJz9ibM9Y6mo1BoCYOkQAvD_BwE line 1 > injectedScript, line 44: WebGL context was lost.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.despachantedok.com.br."
+1664492003950	Marionette	INFO	Stopped listening on port 50051
